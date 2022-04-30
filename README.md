@@ -26,7 +26,7 @@
 * [Documentação DAY](https://docs.microsoft.com/pt-br/sql/t-sql/functions/day-transact-sql?view=sql-server-ver15)
 
 7. **FormataData** = *Função desenvolvida internamente para converter o formato da data padrão do SQL para o formato utilizado no Brasil DD/MM/AAAA*
->**Sintaxe da função FomataData**
+> **Sintaxe da função FomataData**
 
 ~~~~sql
 CREATE FUNCTION [dbo].[FormataData](@Coluna datetime)
